@@ -4,7 +4,6 @@
 * The seed file **MUST NOT** be modified, it is expected to generate a list of random timestamps to be used in the test
 
 ## Submission Instructions
-* Clone this repo
 * Make a **FORK**, and then create a PR for the **FORK** from the **FORK** when you are ready for answer submission!
 * Place your solutions files in the same directory as the seed.py file
 * You can solve the problem using either python, javascript, or ruby
