@@ -14,6 +14,7 @@
 ## Hints
 * **HOW TO PR** workflow, please read this [guide](https://gist.github.com/kaizenx/542bc3bebbb75029f0c96d5871d66af5) to PR properly
 * We **WILL NOT** be processing submissions that do not match the output format as stipulated in Outputs
+* You are **ENCOURAGED** to re-attempt the assessment in the event that you do not do well enough in the first attempt
 
 
 ## Problem Statement
