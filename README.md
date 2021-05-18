@@ -34,6 +34,8 @@
 * The problem stems from needing to award badges for consecutive logins in order to reward good behavior as demonstrated by a Supahands labeler
 
 ## Expected Solution
+* You are provided wit a solution and test placeholder file, change the extension to reflect the language of the script you are using
+* Your solution should be inside the solution file, and your test should be inside the test file
 * Call the seed.py from the your script in order to generate a data pipeline for the processing code
 * Create a separate unit test for your script file to test the various scenarios presented in your script
 * DO NOT edit or amend the seed.py file
