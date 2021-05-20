@@ -7,6 +7,7 @@
 * Make a **FORK**, and then create a PR for the **FORK** from the **FORK** when you are ready for answer submission!
 * Place your solutions files in the same directory as the seed.py file
 * You can solve the problem using either python, javascript, or ruby
+* Use the **LATEST PRODUCTION** versions of the language
 * Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR
 * Solutions that did not follow the submission instructions WILL NOT be considered
 * For guidance on the PR workflow, please read the Hints section
